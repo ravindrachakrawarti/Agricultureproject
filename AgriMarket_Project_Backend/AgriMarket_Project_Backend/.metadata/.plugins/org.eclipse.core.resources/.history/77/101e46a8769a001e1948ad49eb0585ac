@@ -1,0 +1,5 @@
+package AgriMarketBackend.Entity;
+
+public class Address {
+
+}

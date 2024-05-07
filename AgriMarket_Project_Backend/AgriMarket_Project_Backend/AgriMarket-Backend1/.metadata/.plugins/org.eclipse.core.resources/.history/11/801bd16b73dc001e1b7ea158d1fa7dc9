@@ -1,0 +1,5 @@
+package BankProject.Dto;
+
+public class AccountInfo {
+
+}
